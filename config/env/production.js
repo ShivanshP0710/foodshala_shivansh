@@ -47,6 +47,10 @@ module.exports = {
     *                                                                          *
     ***************************************************************************/
     default: {
+
+      adapter: 'sails-postgresql',
+      url: procss.env.DATABASE_URL, //Automatically set by heroku
+
       // adapter: 'sails-mysql',
       // url: 'mysql://user:password@host:port/database',
       //--------------------------------------------------------------------------

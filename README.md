@@ -1,13 +1,19 @@
+# foodshala
+ Food ordering Website
+
 # Pre-requisites to run this app:-
   1. npm installed in your system.
   2. vsCode editor installed in your system (prefered).
   3. In Terminal:-
-  4. Run Command " npm install " (to install all the node dependensies).
-  5. Run Command " npm install sails -g " (this will install sails in your system globally).
+  4. Run Command " npm install sails -g " (this will install sails in your system globally).
+  5. Run Command " npm link " (to download all the required node dependensies).
+  6. Run Command " npm link sails " (to link all the required node dependensies to sails).
   6. Run Command " npm install sails-mongo " (this will install MongoDb adapter)
   7. Now at last run command " sails lift " (To Run or Lift the sails app).
   
-  Helpful link:- https://sailsjs.com/get-started
+  Helpful links:- 
+  1. To Clone and Run Sails Website:- https://sailsjs.com/documentation/contributing/code-submission-guidelines/best-practices
+  2. To Get Started with Sails:-  https://sailsjs.com/get-started
 
 # foodshala
 

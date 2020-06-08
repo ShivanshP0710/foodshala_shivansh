@@ -2,10 +2,10 @@
   1. npm installed in your system.
   2. vsCode editor installed in your system (prefered).
   3. In Terminal:-
-  Run Command " npm install " (to install all the node dependensies).
-  Run Command " npm install sails -g " (this will install sails in your system globally).
-  Run Command " npm install sails-mongo " (this will install MongoDb adapter)
-  Now at last run command " sails lift " (To Run or Lift the sails app).
+  =>Run Command " npm install " (to install all the node dependensies).
+  =>Run Command " npm install sails -g " (this will install sails in your system globally).
+  =>Run Command " npm install sails-mongo " (this will install MongoDb adapter)
+  =>Now at last run command " sails lift " (To Run or Lift the sails app).
   
   Helpful link:- https://sailsjs.com/get-started
 
